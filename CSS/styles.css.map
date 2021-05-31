@@ -1,8 +1,9 @@
 {
     "version": 3,
-    "mappings": "",
+    "mappings": "ACAA,AAAA,IAAI,CAAC;EACD,UAAU,EAAE,UAAU;CACzB",
     "sources": [
-        "styles.scss"
+        "styles.scss",
+        "scss/_base.scss"
     ],
     "names": [],
     "file": "styles.css"
